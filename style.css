@@ -78,7 +78,7 @@ background-color:#e1f5fe;
 }
 
 .drugPic{
-height:60%;
+height:auto;
 padding:5px;
 margin:0 auto 5px auto;
 }
@@ -110,7 +110,7 @@ margin:0 auto 5px auto;
 border-radius:7px;
 background-color:#0D47A1;
 display:block;
-width:50%;
+width:auto;
 height:30px;
 margin:0 auto 5px auto;
 border:solid 1px #0D47A1;
