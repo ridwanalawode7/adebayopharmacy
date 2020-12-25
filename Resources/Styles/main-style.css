@@ -140,7 +140,7 @@ header{
 height:10vw;
 width:90vw;
 padding:5vw;
-border-bottom:solid 1px black;
+border-bottom:solid 1px #03c3eb;
 background-color:white;
 z-index:4;
 }
@@ -202,7 +202,7 @@ margin-top:20vw;
 
 .aside1{
 width:100%;
-border-bottom:solid 1px black;
+border-bottom:solid 1px #03c3eb;
 }
 
 .search{
